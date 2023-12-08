@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Famim Muntashir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p><img url="https://www.linkedin.com/in/md-fahim-muntashir-22408b2a1/overlay/background-image/"/></p>
+<p><img url="[https://www.linkedin.com/in/md-fahim-muntashir-22408b2a1/overlay/background-image](https://github.com/fahimmutashir23/fahimmutashir23/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner%20(1).png) /"/></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
