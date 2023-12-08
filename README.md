@@ -4,7 +4,7 @@
 <div><img src="https://github.com/fahimmutashir23/fahimmutashir23/blob/main/readmeBanner.png" /></div>
 
 ## 💫 About Me:
-Hey, I'm Fahim a Passionate Web Developer. I love working on ExpressJS, ReactJS, and JavaScript. I am highly willing to dedicate my full time to this technology as development is my passion. I always try to give my best wherever I work. I always try to keep myself dynamic and adapt myself to new technologies. My next goal is to become a senior web developer within the next 2 years.
+Hey, I'm Fahim a Passionate Web Developer. I love working on ReactJS, Tailwind CSS, MaterialUI, JavaScript, ExpressJS, MongoDB, JWT, and Firebase. I am highly willing to dedicate my full time to this technology as development is my passion. I always try to give my best wherever I work. I always try to keep myself dynamic and adapt myself to new technologies. My next goal is to become a senior web developer within the next 2 years.
 
 
 ## 🌐 Socials:
