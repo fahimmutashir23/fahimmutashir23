@@ -1,9 +1,9 @@
-<h1 font-size="50px" align="center">Hi 👋, I'm Famim Muntashir</h1>
+<h1 align="center"># Hi 👋, I'm Famim Muntashi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <div><img src="https://github.com/fahimmutashir23/fahimmutashir23/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner%20(1).png" /></div>
 
-# 💫 About Me:
+## 💫 About Me:
 Hey, I'm Fahim a Passionate Web Developer. I love working on ExpressJS, ReactJS, and JavaScript. I am highly willing to dedicate my full time to this technology as development is my passion. I always try to give my best wherever I work. I always try to keep myself dynamic and adapt myself to new technologies. My future goal is to add Python as a new technology to my current skills.
 
 
