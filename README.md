@@ -12,4 +12,4 @@ Hey, I'm Fahim a Passionate Web Developer. I love working on ExpressJS, ReactJS,
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,express,firebase,tailwind,materialui,MongoDB,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,express,firebase,tailwind,materialui,mongodb,html,css,)](https://skillicons.dev)
