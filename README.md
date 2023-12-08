@@ -10,11 +10,18 @@ Hey, I'm Fahim a Passionate Web Developer. I love working on ReactJS, Tailwind C
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fahim.mmuntasir/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-fahim-muntashir-22408b2a1/) 
 
+
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=fahimmutashir23&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=fahimmutashir23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fahimmutashir23&theme=dark&hide_border=false)<br/>
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,express,firebase,tailwind,materialui,mongodb,html,css,)](https://skillicons.dev)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fahimmutashir23&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
