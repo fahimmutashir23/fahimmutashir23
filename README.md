@@ -11,7 +11,6 @@ Hey, I'm Fahim a Passionate Web Developer. I love working on ExpressJS, ReactJS,
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fahim.mmuntasir/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-fahim-muntashir-22408b2a1/) 
 
 ## 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmutashir23&theme=radical&hide_border=false"/></div> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fahimmutashir23&theme=radical&hide_border=false)<br/>
 
 
