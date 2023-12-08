@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <div><img src="https://github.com/fahimmutashir23/fahimmutashir23/blob/main/readmeBanner.png" /></div>
 
